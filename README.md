@@ -224,9 +224,6 @@ python src/gbdt_stacking.py --oof_path results/oof_predictions.csv
 
 ---
 
-## 📬 Contact
-
-**Cruicil** | MS Data Science & Analytics, SUNY Polytechnic Institute  
 🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | 🐙 [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
